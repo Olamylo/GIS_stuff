@@ -1,4 +1,4 @@
-# Geo_stuff
+# GIS_stuff
 
 Geocoding addresses with Geopy
 
